@@ -3,7 +3,7 @@ delivery vrpex for vrp
 # Modified script by 2kill-Sun
 
 **Credits:**
-* creator Imagicat VRP
+* Imagicat creator VRP
 * Shadows
 **My contacts:**
 * My email : sun@blackbox.ac
