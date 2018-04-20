@@ -1,7 +1,10 @@
---Autor Shadow https://github.com/shadowbrz/vrp_delivery
---Edit for VRP no vrpex
--- DevSun
-
+-- ###################################
+--
+--       Credits: DevSun convert to VRPEX
+--       Credits: shadow
+-- My email sun@blackbox.ac
+-- my group fivem server https://www.facebook.com/groups/1489038398088259/
+-- ###################################
 
 
 local Tunnel = module("vrp", "lib/Tunnel")
